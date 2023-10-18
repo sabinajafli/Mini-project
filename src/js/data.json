@@ -1,0 +1,158 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "available": false,
+            "img": "/src/image/main5.avif",
+            "type": "Sony PS5",
+            "title": "Hyper Clutch Gaming Controller",
+            "price": "630.00",
+            "category": "spikers",
+            "label": "Color",
+            "options" : {
+                "first": "White"
+            }
+        },
+        {
+            "id": 2,
+            "available": true,
+            "img": "/src/image/main6.avif",
+            "type": "Samsung",
+            "title": "Alien ware Monitor T 46",
+            "price": "850.00",
+            "label": "Size",
+            "options" : {
+                "first": "32 Inches",
+                "second": "28 Inches"
+            }
+        },
+        {
+            "id": 3,
+            "available": true,
+            "img": "/src/image/main1.avif",
+            "type": "Kepler Brooks",
+            "title": "Colossus Ergonomic Gaming Office Chair",
+            "price": "356.00",
+            "oldPrice": "500.00",
+            "label": "Color",
+            "options" : {
+                "first": "White",
+                "second": "Green"
+            }
+        },
+        {
+            "id": 4,
+            "available": true,
+            "img": "/src/image/main2.avif",
+            "type": "Electrobot",
+            "title": "Electrobot Xtreme Gaming Series PC",
+            "price": "468.00",
+            "label": "Size",
+            "category": "power",
+            "options" : {
+                "first": "128 GB",
+                "second": "256 GB"
+            }
+        },
+        {
+            "id": 5,
+            "available": false,
+            "img": "/src/image/main3.avif",
+            "type": "XFX",
+            "title": "Nintendo Switch Lite - Turquoise",
+            "price": "543.00",
+            "oldPrice": "700.00",
+            "category": "gaming",
+            "label": "Size",
+            "options" : {
+                "first": "Blue",
+                "second": "White",
+                "third": "Grey"
+            }
+        },
+        {
+            "id": 6,
+            "available": true,
+            "img": "/src/image/main4.avif",
+            "type": "HyperX",
+            "title": "Cloud Alpha Gaming Headset",
+            "price": "530.00",
+            "oldPrice": "600.00",
+            "category": "spikers",
+            "label": "Color",
+            "options" : {
+                "first": "Black",
+                "second": "Red"
+            }
+        },
+        {
+            "id": 7,
+            "available": true,
+            "img": "/src/image/3.avif",
+            "type": "VFX",
+            "title": "HTC Vive Tracker (3.0) - PC",
+            "price": "560.00",
+            "oldPrice": "780.00",
+            "category": "gaming",
+            "label": "Color",
+            "options" : {
+                "first": "Black"
+            }
+        },
+        {
+            "id": 8,
+            "available": true,
+            "img": "/src/image/8.avif",
+            "type": "Vulture",
+            "title": "Rubber Keycaps",
+            "price": "589.00",
+            "label": "Color",
+            "category": "spikers",
+            "options" : {
+                "first": "Green",
+                "second": "Red"
+            }
+        },
+        {
+            "id": 9,
+            "available": true,
+            "img": "/src/image/main7.avif",
+            "type": "XFX",
+            "title": "Refurbished Xbox Series X 1TB Console",
+            "price": "430.00",
+            "label": "Size",
+            "category": "gaming",
+            "options" : {
+                "first": "Black",
+                "second": "White"
+            }
+        },
+        {
+            "id": 10,
+            "available": true,
+            "img": "/src/image/main8.avif",
+            "type": "KandE",
+            "title": "KD DMTR Gaming Desktop PC",
+            "price": "468.00",
+            "label": "Size",
+            "category": "power",
+            "options" : {
+                "first": "256 GB",
+                "second": "364 GB"
+            }
+        },
+        {
+            "id": 11,
+            "available": true,
+            "img": "/src/image/main9.avif",
+            "type": "Elctrobot",
+            "title": "Raptor Gameing Z95",
+            "price": "896.00",
+            "label": "Size",
+            "category": "power",
+            "options" : {
+                "first": "364 GB"
+            }
+        }
+    ]
+}

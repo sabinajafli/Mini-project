@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "available": false,
+            "img": "/src/image/1.avif",
+            "type": "Kepler Brooks",
+            "title": "Colossus Ergonomic Gaming Office Chair",
+            "price": "356.00",
+            "oldPrice": "500.00",
+            "date": "New",
+            "label": "Color",
+            "options" : {
+                "first": "White",
+                "second": "Green"
+            }
+        },
+        {
+            "id": 2,
+            "available": true,
+            "img": "/src/image/2.avif",
+            "type": "Acer",
+            "title": "Alienware Gameing Monitor T 45",
+            "price": "560.00",
+            "oldPrice": "800.00",
+            "label": "Size",
+            "options" : {
+                "first": "21.5 Inches",
+                "second": "25.5 Inches"
+            }
+        },
+        {
+            "id": 3,
+            "available": true,
+            "img": "/src/image/3.avif",
+            "type": "VFX",
+            "title": "HTC Vive Tracker (3.0) - PC",
+            "price": "560.00",
+            "oldPrice": "780.00",
+            "label": "Color",
+            "options" : {
+                "first": "Black"
+            }
+        },
+        {
+            "id": 4,
+            "available": true,
+            "img": "/src/image/4.avif",
+            "type": "VFX",
+            "title": "VR Headset with Headphones",
+            "price": "860.00",
+            "oldPrice": "900.00",
+            "label": "Size",
+            "options" : {
+                "first": "18 x 11.5 x 11",
+                "second": "20 x 12.5 x 13"
+            }
+        },
+        {
+            "id": 5,
+            "available": false,
+            "img": "/src/image/5.avif",
+            "type": "Kepler Brooks",
+            "title": "Kepler Brooks Gaming Chair",
+            "price": "720.00",
+            "label": "Size",
+            "options" : {
+                "first": "52D x 66W x 131H",
+                "second": "50D x 65W x 130H"
+            }
+        },
+        {
+            "id": 6,
+            "available": true,
+            "img": "/src/image/6.avif",
+            "type": "XFX",
+            "title": "Radeon™ RX 750 XT SPEEDSTER MERC",
+            "price": "940.00",
+            "oldPrice": "960.00",
+            "label": "Color",
+            "options" : {
+                "first": "White",
+                "second": "Green"
+            }
+        },
+        {
+            "id": 7,
+            "available": true,
+            "img": "/src/image/7.avif",
+            "type": "XFX",
+            "title": "Radeon RX 120 GTS  Graphics Card",
+            "price": "560.00",
+            "oldPrice": "600.00",
+            "label": "Size",
+            "options" : {
+                "first": "3 GB",
+                "second": "8 GB"
+            }
+        },
+        {
+            "id": 8,
+            "available": true,
+            "img": "/src/image/8.avif",
+            "type": "Vulture",
+            "title": "Rubber Keycaps",
+            "price": "589.00",
+            "label": "Color",
+            "options" : {
+                "first": "Green",
+                "second": "Red"
+            }
+        }
+    ]
+}
