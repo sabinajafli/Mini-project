@@ -177,7 +177,7 @@
               <a href="/cart.html">
                 <span class="icon-label"
                   >My Cart: <br />
-                  <b>0.00<span class="currency-type">USD</span></b>
+                  <b class="total-price">0.00<span class="currency-type">USD</span></b>
                 </span>
                 <svg
                   width="23"
@@ -205,7 +205,7 @@
                     fill="white"
                   ></path>
                 </svg>
-                <span class="count-1">0</span>
+                <span class="count-1"></span>
               </a>
             </li>
           </ul>
@@ -328,6 +328,16 @@
     </main>
     <!-- ------------------------------- -->
 
+    <!-- -------------Modal------------- -->
+    <div class="modal-container">
+      <div class="modal-content">
+        <button class="close-modal"><i class="fa-solid fa-xmark"></i></button>
+        <div id="modal-product-details">
+        </div>
+      </div>
+    </div>
+    <!-- ------------------------------- -->
+
     <!-- -----------Products------------ -->
     <section id="products">
       <swiper-container
@@ -411,18 +421,18 @@
               </h2>
             </div>
             <ul class="tabs">
-              <li class="tab-link active">
-                <button id="gamingButton">
+              <li class="tab-link">
+                <button id="gamingButton" class="activebtn">
                   <img
                     src="./src/image/1_4e117171-0b63-4d80-b3fa-1ebc70c0f76e_18x17.png"
-                    class="white"
+                    class="icon"
                     alt="image"
                   />
                   Gaming peripherals
                 </button>
               </li>
               <li class="tab-link">
-                <button id="speakersButton">
+                <button id="speakersButton" class="activebtn">
                   <img
                     src="//gaming-workdo.myshopify.com/cdn/shop/files/2_226ba59a-8c4d-48fd-9928-e32ed3555f5b_18x17.png?v=1671615074"
                     class="icon"
@@ -432,7 +442,7 @@
                 </button>
               </li>
               <li class="tab-link">
-                <button id="powerButton">
+                <button id="powerButton" class="activebtn">
                   <img
                     src="//gaming-workdo.myshopify.com/cdn/shop/files/3_ae3d1802-51fa-4ec7-9b73-1279de22395f_18x17.png?v=1671615083"
                     class="icon"
@@ -1053,7 +1063,7 @@
         </div>
       </div>
       <div class="product-comments">
-        <swiper-container class="mySwiper" slides-per-view="2">
+        <swiper-container class="mySlider" slides-per-view="2">
           <swiper-slide>
             <div class="comment">
               <img src="./src/image/testi-1.webp" alt="" />
